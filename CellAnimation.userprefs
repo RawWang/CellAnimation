@@ -1,10 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CellAnimation.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Panel.shader">
     <Files>
-      <File FileName="Assets/CornerCut.shader" Line="77" Column="2" />
-      <File FileName="Assets/MyShader.shader" Line="51" Column="6" />
-      <File FileName="Assets/CellAnimation.cs" Line="15" Column="3" />
+      <File FileName="Assets/Panel.shader" Line="130" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
