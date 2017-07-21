@@ -46,9 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CellAnimation.cs" />
-     <None Include="Assets\Panel.shader" />
+     <Compile Include="Assets\Scripts\CCColorConventor.cs" />
+     <Compile Include="Assets\Scripts\CCCornerCell.cs" />
      <None Include="Assets\Plugins\DOTween\DOTween46.xml" />
+     <None Include="Assets\Resources\Shaders\CornerCell.shader" />
      <None Include="Assets\Plugins\DOTween\readme.txt" />
      <None Include="Assets\Plugins\DOTween\DOTween50.xml" />
      <None Include="Assets\Plugins\DOTween\DOTween43.xml" />
@@ -71,16 +72,16 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>/Users/Raw/Desktop/CellAnimation/Assets/Plugins/DOTween/DOTween.dll</HintPath>
+ <HintPath>/Users/Raw/GitHub/CellAnimation/Assets/Plugins/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>/Users/Raw/Desktop/CellAnimation/Assets/Plugins/DOTween/DOTween43.dll</HintPath>
+ <HintPath>/Users/Raw/GitHub/CellAnimation/Assets/Plugins/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>/Users/Raw/Desktop/CellAnimation/Assets/Plugins/DOTween/DOTween46.dll</HintPath>
+ <HintPath>/Users/Raw/GitHub/CellAnimation/Assets/Plugins/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="DOTween50">
- <HintPath>/Users/Raw/Desktop/CellAnimation/Assets/Plugins/DOTween/DOTween50.dll</HintPath>
+ <HintPath>/Users/Raw/GitHub/CellAnimation/Assets/Plugins/DOTween/DOTween50.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
